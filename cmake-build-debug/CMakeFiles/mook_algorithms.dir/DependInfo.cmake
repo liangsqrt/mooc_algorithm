@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/liang/MyProgram/cprogram/mook_algorithms/main.cpp" "/Users/liang/MyProgram/cprogram/mook_algorithms/cmake-build-debug/CMakeFiles/mook_algorithms.dir/main.cpp.o"
+  "/Users/liangliang/MyProgram/CProgram/mooc_algorithm/main.cpp" "/Users/liangliang/MyProgram/CProgram/mooc_algorithm/cmake-build-debug/CMakeFiles/mook_algorithms.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

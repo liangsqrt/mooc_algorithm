@@ -1,4 +1,4 @@
-# Install script for directory: /Users/liang/MyProgram/cprogram/mook_algorithms
+# Install script for directory: /Users/liangliang/MyProgram/CProgram/mooc_algorithm
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/liang/MyProgram/cprogram/mook_algorithms/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/liangliang/MyProgram/CProgram/mooc_algorithm/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

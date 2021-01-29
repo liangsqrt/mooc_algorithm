@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/Users/liang/MyProgram/cprogram/mook_algorithms/SortTestHelper.h
+/Users/liangliang/MyProgram/CProgram/mooc_algorithm/SortTestHelper.h
 iostream
 -
 string
@@ -14,15 +14,15 @@ string
 ctime
 -
 cassert
-/Users/liang/MyProgram/cprogram/mook_algorithms/cassert
+/Users/liangliang/MyProgram/CProgram/mooc_algorithm/cassert
 
-/Users/liang/MyProgram/cprogram/mook_algorithms/Student.h
+/Users/liangliang/MyProgram/CProgram/mooc_algorithm/Student.h
 
-/Users/liang/MyProgram/cprogram/mook_algorithms/main.cpp
+/Users/liangliang/MyProgram/CProgram/mooc_algorithm/main.cpp
 iostream
 -
 Student.h
-/Users/liang/MyProgram/cprogram/mook_algorithms/Student.h
+/Users/liangliang/MyProgram/CProgram/mooc_algorithm/Student.h
 SortTestHelper.h
-/Users/liang/MyProgram/cprogram/mook_algorithms/SortTestHelper.h
+/Users/liangliang/MyProgram/CProgram/mooc_algorithm/SortTestHelper.h
 
