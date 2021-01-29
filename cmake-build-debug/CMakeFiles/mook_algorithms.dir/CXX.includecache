@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/liang/MyProgram/cprogram/mook_algorithms/SortTestHelper.h
+iostream
+-
+string
+-
+ctime
+-
+cassert
+/Users/liang/MyProgram/cprogram/mook_algorithms/cassert
+
+/Users/liang/MyProgram/cprogram/mook_algorithms/Student.h
+
+/Users/liang/MyProgram/cprogram/mook_algorithms/main.cpp
+iostream
+-
+Student.h
+/Users/liang/MyProgram/cprogram/mook_algorithms/Student.h
+SortTestHelper.h
+/Users/liang/MyProgram/cprogram/mook_algorithms/SortTestHelper.h
+
